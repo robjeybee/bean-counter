@@ -36,3 +36,16 @@ button {
 #increment-btn {
     background: darkred;
 }
+
+#save-btn {
+    background: green;
+}
+
+#reset-btn {
+    background-color: orangered;
+}
+
+p {
+    color: aliceblue;
+}
+
